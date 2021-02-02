@@ -9,4 +9,7 @@
 * java 프로그래밍 2일차
 * 클래스, 패키지, main() method
 
-아아
+
+1. git add .
+2. git commit -m "README 또 추가"
+3. git push [-u origin master]
