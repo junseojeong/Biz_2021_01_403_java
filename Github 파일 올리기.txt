@@ -1,0 +1,20 @@
+1. git init (압축 및 업로드할 파일 생성)
+
+ 2. 계정연결
+    git config --local user.name (깃허브 닉네임)
+    
+    git config --local user.email (깃허브 이메일)
+
+ 3. repository 주소 연결
+    git remote add origin https://github.com/junseojeong
+    /Biz_403_01_java.git
+
+ 4. 로컬폴더의 프로젝트를 업로드 준비
+    git add . : 현재 폴더의 모든 것을
+    업로드 하도록 압축하라
+
+ 5. 업로드 커멘트 설정
+    git commit -m first
+
+ 6. 압축된 로컬 폴더를 업로드
+    git push -u origin master

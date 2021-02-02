@@ -1,0 +1,19 @@
+화면 상단에 여러 항목이 있고
+항목을 선택했을때
+내용을 달리 보여주는 기능을 TAB Menu 라고 한다.
+
+서브라임 텍스트,sublime text
+파일의 종류
+- Text 파일 : 메모장으로 열어서 내용을 확인 할 수 있는 파일
+- 이진파일(Binary file) : 그림, 음악, 동영상 ...
+
+URL : 인터넷 주소 체계
+HTTPS : Hyper Text trasnfer Protocol Security
+WWW : World wide web
+통합 개발 환경(Integrated Development Environment, IDE)
+-> 이클립스(도구)
+
+
+
+자동형 변환
+강제형 변환
